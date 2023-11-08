@@ -4,7 +4,6 @@
 </div>
 
 Email: syedimtiyazali141@gmail.com<br>
-Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/imtiyaz-sde/<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Artificial-Intelligence-Engineer-Roadmap-AI)
@@ -14,12 +13,6 @@ LinkedIn: https://www.linkedin.com/in/imtiyaz-sde/<br>
 
 ## Overview
 This is resources for going from software engineer/non-software engineer to profressional in AI engineer
-
-## About Me
-I'm a Software Engineer who is really passionate to become entrepreneur, investor, and AI engineer. Was found Humaan.ai to bringing the AI to everyone to do incredible ways. Currently, I'm working as a senior software engineer in HBCL.
-
-
-# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/EngrSaad2/Artificial-Intelligence-Engineer-Roadmap)
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
